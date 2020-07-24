@@ -156,9 +156,6 @@ const Picker = ({
               resource={resource}
               isRequired={isRequired}
             />}
-            InputLabelProps={{
-                shrink: true,
-            }}
             variant={pickerVariant}
             inputVariant={variant}
             margin={margin}
